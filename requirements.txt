@@ -1,0 +1,15 @@
+os
+api
+gtts
+time
+numpy
+selenium
+datetime
+requests
+randfacts
+playsound
+transformers
+speech_recognition
+selenium.webdriver.common.by
+selenium.webdriver.common.keys
+selenium.webdriver.chrome.options
