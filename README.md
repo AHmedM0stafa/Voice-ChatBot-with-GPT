@@ -8,7 +8,7 @@ https://youtu.be/tPxfM85TawE
 
 # Features
 
-- Sleep
+
 - vidoe Search
 - action time
 - respond politely
@@ -22,6 +22,7 @@ https://youtu.be/tPxfM85TawE
 - GPT-2 algorithm to help the chatbot learn and adapt to your preferences over time.
 
 # Requirements
+
 
 + Python 3.6+
 + speech_recognition
@@ -43,6 +44,7 @@ https://youtu.be/tPxfM85TawE
 
 # Installation
 To install and use this implementation of Chatbot, you need to have Python 3.x installed. Clone the repository and install the required packages.
+
 OR ,try to use Colab.
 and install requirements.txt
 
