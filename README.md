@@ -4,6 +4,8 @@ This project is a voice chatbot that can chat with you about anything and uses G
 # Explan short vidoe 
 https://youtu.be/tPxfM85TawE
 
+[![Carla Voice ChatBot using ChatGPT](https://img.youtube.com/vi/tPxfM85TawE/0.jpg)](https://www.youtube.com/watch?v=tPxfM85TawE)
+
 # Features
 
 - Sleep
